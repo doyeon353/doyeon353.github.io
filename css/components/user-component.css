@@ -2,9 +2,10 @@
   justify-content: space-between;
   margin-bottom: 20px;
   padding-bottom: 15px;
+}
+.main-screen .user-component {
   border-bottom: var(--margin-bottom);
 }
-
 .user-component,
 .user-component__column:first-child {
   display: flex;
